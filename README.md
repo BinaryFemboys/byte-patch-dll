@@ -8,7 +8,7 @@ This repository provides a very minimalist bytepatch DLL with an integrated vmp 
 
 # **Important**
 
-This tool is not self explanatory at all, it requires a minimal understanding of Reverse Engineering, code and assembly, do not ask for support with it.
+This tool is not self explanatory at all, it requires a basic understanding of Reverse Engineering, code and assembly, do not ask for support with it.
 
 ## **Usage**
 
