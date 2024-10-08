@@ -2,7 +2,7 @@
 
 This tool was made by the BinFbs (od8m-deltrix).
 
-# **Binary Femboys Bytepatch DLL**
+# **Binary Femboys Minimalist Bytepatch DLL**
 
 This repository provides a very minimalist bytepatch DLL with an integrated vmp patcher using signature scanning. This allows us to patch a running program without using x64dbg's .1337 or runtime patches.
 
